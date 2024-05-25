@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "yt_gen_password",
-    "slug": "yt_gen_password",
+    "name": "yt_react_native_gen_password",
+    "slug": "yt_react_native_gen_password",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
